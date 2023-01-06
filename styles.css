@@ -43,3 +43,7 @@ a {
   padding: 5px;
   text-decoration-style: wavy;
 }
+
+a:hover {
+  color: green;
+}
