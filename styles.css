@@ -35,3 +35,11 @@ img {
   max-width: 70%;
   height: auto;
 }
+
+a {
+  color: purple;
+  border-style: double;
+  text-decoration: underline;
+  padding: 5px;
+  text-decoration-style: wavy;
+}
